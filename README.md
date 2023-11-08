@@ -3,7 +3,7 @@
 EyeEnvy is your one-stop destination for discovering and showcasing the finest eyewear collections. Whether you're a fashion enthusiast, eyewear designer, or just someone with a passion for stylish glasses, EyeEnvy is the place to be.
 # check it out here👇
 
- https://app.netlify.com/sites/eyeenvy/
+(https://eyeenvy.netlify.app/)
 
 ## Introduction
 
