@@ -1,10 +1,18 @@
-  *{
-    font-family: "gilroy","kajiro Bold";
+@font-face {
+  font-family: 'Kajiro';
+  src: url('Kajiro.woff2') format('woff2');
+  /* Add additional formats for cross-browser compatibility if needed */
+  font-weight: normal;
+  font-style: normal;
+}
+
+*{
+    font-family: "gilroy", "kajiro Bold";
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-html,body{
+html, body{
     width: 100%;
     height: 100vh;
 }
