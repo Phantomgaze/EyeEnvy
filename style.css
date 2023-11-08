@@ -1,13 +1,3 @@
-@font-face {
-    font-family: 'CustomFont';
-    src: url('KajiroBold.woff2') format('woff2');
-    /* Add more src formats if needed */
-  }
-  
-  body {
-    font-family: 'kajiro', gillroy; 
-  }
-  
   *{
     font-family: "gilroy","kajiro Bold";
     margin: 0;
